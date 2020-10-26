@@ -8,6 +8,8 @@
 <img align="left" width="22px" style="max-width:100%;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />  </a> 
   <a href="https://www.instagram.com/smeetpatel_1804/"> 
   <img align="left" width="22px" style="max-width:100%;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />   </a> 
+  <a href="https://smeetpatel2530.github.io/CV-Upgraded/">
+<img align="left" width="22px" style="max-width:100%;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" /></a>
   
   
 - 🔭 I’m currently working on skills.
