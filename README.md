@@ -13,8 +13,6 @@
 
 
 ## Connect with me:
-
-
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJlFmXZlPhSBLgBbvclFNhJrsnlxdzjwVCLQvCwNCzPWVszjSFxPFkwlVjtHQGQSRgFSchg">
 <img   align="left" width="22px" style="max-width:100%;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a> 
 <a href="https://www.linkedin.com/in/smeet-patel-22b67a193/">
@@ -24,3 +22,8 @@
   <a href="https://smeetpatel2530.github.io/CV-Upgraded/">
 <img align="left" width="22px" style="max-width:100%;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg"</a>
   
+        
+  
+  
+  
+## Languages and Tools:
