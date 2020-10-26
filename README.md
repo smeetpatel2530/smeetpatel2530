@@ -10,7 +10,7 @@
   <img align="left" width="22px" style="max-width:100%;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />   </a> 
   <a href="https://smeetpatel2530.github.io/CV-Upgraded/">
 <img align="left" width="22px" style="max-width:100%;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg"</a>
-
+<br>
 - 🔭 I’m currently working on skills.
 - 🌱 I’m currently learning web development.
 - 💬 Ask me about Java and Javascript.
