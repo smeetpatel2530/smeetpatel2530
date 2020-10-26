@@ -3,7 +3,7 @@
 
 
 ## Connect with me:
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJlFmXZlPhSBLgBbvclFNhJrsnlxdzjwVCLQvCwNCzPWVszjSFxPFkwlVjtHQGQSRgFSchg">
+<a  href="mailto:smeetpatel2530@gmail.com">
 <img   align="left" width="22px" style="max-width:100%;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a> 
 <a href="https://www.linkedin.com/in/smeet-patel-22b67a193/">
 <img align="left" width="22px" style="max-width:100%;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />  </a> 
