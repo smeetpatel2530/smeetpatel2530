@@ -11,3 +11,11 @@
 - ⚡ Fun fact: Love to listen songs.
 - 📱  My Apps: [Smeet Patel Apps](https://play.google.com/store/search?q=pub:%20Smeet%20Patel&c=apps)
 
+
+## Connect with me:
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJlFmXZlPhSBLgBbvclFNhJrsnlxdzjwVCLQvCwNCzPWVszjSFxPFkwlVjtHQGQSRgFSchg">
+<img   align="left" width="22px" style="max-width:100%;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a> 
+<a href="https://www.linkedin.com/in/smeet-patel-22b67a193/">
+<img align="left" width="22px" style="max-width:100%;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />  </a> 
+  <a href="https://www.instagram.com/smeetpatel_1804/"> 
+  <img align="left" width="22px" style="max-width:100%;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />   </a> 
