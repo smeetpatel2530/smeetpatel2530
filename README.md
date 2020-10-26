@@ -37,6 +37,6 @@
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"><img align="left" width="26px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"><img align="left" width="26px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width:100%;"></a>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=algolia&show_icons=true)
+![Smeet Patel's github stats](https://github-readme-stats.vercel.app/api?username=smeetpatel2530&theme=algolia&show_icons=true)
 
 
