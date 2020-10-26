@@ -1,5 +1,5 @@
 ![smeet](https://user-images.githubusercontent.com/60186652/97124496-5411a180-1756-11eb-8a99-d0a132663b22.gif)
-## Smeet Patel!
+## Smeet Patel!! [Profile views](https://gpvc.arturio.dev/smeetpatel2530)
 
 
 ## Connect with me:
@@ -41,4 +41,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smeetpatel2530&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
