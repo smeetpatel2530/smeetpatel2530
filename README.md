@@ -18,7 +18,7 @@
 - 💬 Ask me about Java and Javascript.
 - 📫 How to reach me: [LinkedIn - Smeet Patel](https://www.linkedin.com/in/smeet-patel-22b67a193/)  ,  [Instagram - @smeetpatel_1804](https://www.instagram.com/smeetpatel_1804/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Love to listen songs.
+- ⚡ Fun fact: Love to listen songs for max 25 Hours.
 - 📱  My Apps: [Smeet Patel Apps](https://play.google.com/store/search?q=pub:%20Smeet%20Patel&c=apps) 
   
 ## Languages and Tools:
