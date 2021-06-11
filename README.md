@@ -14,7 +14,7 @@
   
   
 - 🔭 I’m currently working on skills.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning Python.
 - 💬 Ask me about Java and Javascript.
 - 📫 How to reach me: [LinkedIn - Smeet Patel](https://www.linkedin.com/in/smeet-patel-22b67a193/)  ,  [Instagram - @smeetpatel_1804](https://www.instagram.com/smeetpatel_1804/)
 - 😄 Pronouns: He/His
