@@ -1,5 +1,5 @@
 ![smeet](https://user-images.githubusercontent.com/60186652/97124496-5411a180-1756-11eb-8a99-d0a132663b22.gif)
-## Smeet Patel!! ![Profile views](https://gpvc.arturio.dev/smeetpatel2530)
+## Smeet Patel!! 
 
 
 ## Connect with me:
