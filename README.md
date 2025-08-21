@@ -8,13 +8,13 @@
 <p align="left">
   <a href="mailto:smeetpatel2530@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="30" alt="Gmail"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/smeet-patel-22b67a193/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="30" alt="LinkedIn"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/smeetpatel_1804/">
     <img src="https://skillicons.dev/icons?i=instagram" width="30" alt="Instagram"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://smeetpatel2530.github.io/CV-Upgraded/">
     <img src="https://skillicons.dev/icons?i=devto" width="30" alt="Portfolio"/>
   </a>
@@ -58,10 +58,12 @@
 ---
 
 ## 🎖 Badges  
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/smeetpatel2530)  
-![Visitors](https://komarev.com/ghpvc/?username=smeetpatel2530&color=blue&style=flat-square&label=Profile+Views)  
-![Followers](https://img.shields.io/github/followers/smeetpatel2530?style=social)  
-![Stars](https://img.shields.io/github/stars/smeetpatel2530?style=social)  
+<p align="center">
+  <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" />
+  <img src="https://komarev.com/ghpvc/?username=smeetpatel2530&color=blue&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/smeetpatel2530?style=social" />
+  <img src="https://img.shields.io/github/stars/smeetpatel2530?style=social" />
+</p>
 
 ---
 ✨ _Made with ❤️ by **Smeet Patel**_
