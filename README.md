@@ -1,46 +1,67 @@
 ![smeet](https://user-images.githubusercontent.com/60186652/97124496-5411a180-1756-11eb-8a99-d0a132663b22.gif)
-## Smeet Patel!! 
 
+# 👋 Hi, I’m **Smeet Patel!!**  
 
-## Connect with me:
-<a  href="mailto:smeetpatel2530@gmail.com">
-<img   align="left" width="22px" style="max-width:100%;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a> 
-<a href="https://www.linkedin.com/in/smeet-patel-22b67a193/">
-<img align="left" width="22px" style="max-width:100%;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />  </a> 
-  <a href="https://www.instagram.com/smeetpatel_1804/"> 
-  <img align="left" width="22px" style="max-width:100%;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />   </a> 
+---
+
+## 🌐 Connect with me  
+<p align="left">
+  <a href="mailto:smeetpatel2530@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="30" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/smeet-patel-22b67a193/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="30" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/smeetpatel_1804/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="30" alt="Instagram"/>
+  </a>
   <a href="https://smeetpatel2530.github.io/CV-Upgraded/">
-<img align="left" width="22px" style="max-width:100%;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" /></a> <p><br><br><p>
-  
-  
-- 🔭 I’m currently working on skills.
-- 🌱 I’m currently learning ML/AI.
-- 💬 Ask me about CPP,Java and Javascript.
-- 📫 How to reach me: [LinkedIn - Smeet Patel](https://www.linkedin.com/in/smeet-patel-22b67a193/) 
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Love to listen songs for max 25 Hours.
- 
-  
-## Languages and Tools:
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"><img align="left" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"><img  align="left" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"><img align="left" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img align="left" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img align="left" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"><img align="left" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img align="left" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"><img align="left" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><img align="left" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"><img align="left" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"><img align="left" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"><img align="left" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"><img align="left" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width:100%;"></a>
+    <img src="https://skillicons.dev/icons?i=devto" width="30" alt="Portfolio"/>
+  </a>
+</p>
 
-<br>
+---
 
+## 🚀 About Me  
+- 🔭 I’m currently working on **enhancing my skills**  
+- 🌱 Learning **AI / ML**  
+- 💬 Ask me about **C++, Java, JavaScript**  
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/smeet-patel-22b67a193/)  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I can listen to songs for **25 hours straight** 🎶  
 
-![Smeet Patel's github stats](https://github-readme-stats.vercel.app/api?username=smeetpatel2530&theme=algolia&show_icons=true)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smeetpatel2530&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 🛠️ Languages and Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,kotlin,html,css,vscode,js,bootstrap,nodejs,mysql,mongodb,react,git,github" />
+</p>
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/smeetpatel2530)
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=smeetpatel2530&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smeetpatel2530&theme=tokyonight" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smeetpatel2530&theme=radical&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=smeetpatel2530&theme=tokyonight&no-frame=true&margin-w=5&margin-h=5" />
+</p>
+
+---
+
+## 🎖 Badges  
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/smeetpatel2530)  
+![Visitors](https://komarev.com/ghpvc/?username=smeetpatel2530&color=blue&style=flat-square&label=Profile+Views)  
+![Followers](https://img.shields.io/github/followers/smeetpatel2530?style=social)  
+![Stars](https://img.shields.io/github/stars/smeetpatel2530?style=social)  
+
+---
+✨ _Made with ❤️ by **Smeet Patel**_
