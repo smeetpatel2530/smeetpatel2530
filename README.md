@@ -59,11 +59,10 @@
 
 ## 🎖 Badges  
 <p align="center">
-  <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" />
   <img src="https://komarev.com/ghpvc/?username=smeetpatel2530&color=blue&style=flat-square&label=Profile+Views" />
   <img src="https://img.shields.io/github/followers/smeetpatel2530?style=social" />
   <img src="https://img.shields.io/github/stars/smeetpatel2530?style=social" />
 </p>
-
+<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" />
 ---
-✨ _Made with ❤️ by **Smeet Patel**_
+<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" /> **Smeet Patel**_
