@@ -64,4 +64,4 @@
   <img src="https://img.shields.io/github/stars/smeetpatel2530?style=social" />
 </p>
 ---
-_<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" /> **Smeet Patel**_
+✨ _Made with ❤️ by **Smeet Patel**_
