@@ -63,5 +63,7 @@
   <img src="https://img.shields.io/github/followers/smeetpatel2530?style=social" />
   <img src="https://img.shields.io/github/stars/smeetpatel2530?style=social" />
 </p>
+
 ---
 ✨ _Made with ❤️ by **Smeet Patel**_
+---
